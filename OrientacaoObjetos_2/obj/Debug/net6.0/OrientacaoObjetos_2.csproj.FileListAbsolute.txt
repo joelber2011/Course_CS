@@ -1,0 +1,15 @@
+C:\Users\Joelber\OneDrive\Udemy\C#\OrientacaoObjetos_2\obj\Debug\net6.0\OrientacaoObjetos_2.csproj.AssemblyReference.cache
+C:\Users\Joelber\OneDrive\Udemy\C#\OrientacaoObjetos_2\obj\Debug\net6.0\OrientacaoObjetos_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joelber\OneDrive\Udemy\C#\OrientacaoObjetos_2\obj\Debug\net6.0\OrientacaoObjetos_2.AssemblyInfoInputs.cache
+C:\Users\Joelber\OneDrive\Udemy\C#\OrientacaoObjetos_2\obj\Debug\net6.0\OrientacaoObjetos_2.AssemblyInfo.cs
+C:\Users\Joelber\OneDrive\Udemy\C#\OrientacaoObjetos_2\obj\Debug\net6.0\OrientacaoObjetos_2.csproj.CoreCompileInputs.cache
+C:\Users\Joelber\OneDrive\Udemy\C#\OrientacaoObjetos_2\bin\Debug\net6.0\OrientacaoObjetos_2.exe
+C:\Users\Joelber\OneDrive\Udemy\C#\OrientacaoObjetos_2\bin\Debug\net6.0\OrientacaoObjetos_2.deps.json
+C:\Users\Joelber\OneDrive\Udemy\C#\OrientacaoObjetos_2\bin\Debug\net6.0\OrientacaoObjetos_2.runtimeconfig.json
+C:\Users\Joelber\OneDrive\Udemy\C#\OrientacaoObjetos_2\bin\Debug\net6.0\OrientacaoObjetos_2.dll
+C:\Users\Joelber\OneDrive\Udemy\C#\OrientacaoObjetos_2\bin\Debug\net6.0\OrientacaoObjetos_2.pdb
+C:\Users\Joelber\OneDrive\Udemy\C#\OrientacaoObjetos_2\obj\Debug\net6.0\OrientacaoObjetos_2.dll
+C:\Users\Joelber\OneDrive\Udemy\C#\OrientacaoObjetos_2\obj\Debug\net6.0\refint\OrientacaoObjetos_2.dll
+C:\Users\Joelber\OneDrive\Udemy\C#\OrientacaoObjetos_2\obj\Debug\net6.0\OrientacaoObjetos_2.pdb
+C:\Users\Joelber\OneDrive\Udemy\C#\OrientacaoObjetos_2\obj\Debug\net6.0\OrientacaoObjetos_2.genruntimeconfig.cache
+C:\Users\Joelber\OneDrive\Udemy\C#\OrientacaoObjetos_2\obj\Debug\net6.0\ref\OrientacaoObjetos_2.dll
